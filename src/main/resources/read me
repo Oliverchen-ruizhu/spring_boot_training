@@ -1,0 +1,1 @@
+application.properties是Spring Boot默认配置文件，可以对其进行更改来修改Spring Boot的配置
